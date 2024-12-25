@@ -1,4 +1,3 @@
-# Security-Monitor
 # IntruShield - Intrusion Detection System (IDS)
 
 ## Overview
